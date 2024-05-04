@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, We are BabyCare</h1>
 <h3 align="center">A passionate Software developer from Spain</h3>
 
-- 🔭 I’m currently working on Ceis **Eficience energety lab**
+- 🔭 Proyecto académico de Desarrollo de aplicaciones multiplataforma.
 
-- 🌱 I’m currently learning **multiplataform developer degree / IA and Big Data master**
+- 🌱 Proyecto comprometido con el medio ambiente.
 
-- 👯 I’m looking to collaborate on **new IT proyect**
+- 👯 Domina el trabajo en equipo.
 
-- 🤝 I’m looking for help with **Enter in software developer world**
+- 🤝 we are looking for help with **Enter in software developer world**.
 
-- 💬 Ask me about **JAVA**
+- 💬  **JAVA** **Android**.
 
-- 📫 How to reach me **angelcj1996@hotmail.com**
+- 📫 How to reach us **babycare_IFP@hotmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
